@@ -1,7 +1,7 @@
 import React from 'react';
-import { Layers, FileCode2, ExternalLink } from 'lucide-react';
+import { Layers } from 'lucide-react';
 
-export default function Footer({ onSelectTab, onOpenAuth }) {
+export default function Footer() {
   return (
     <footer className="mt-20 border-t border-gray-800/80 bg-gray-950 text-gray-400 text-xs">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">

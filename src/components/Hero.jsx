@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function Hero({ onOpenAuth, onSelectTab, currentRole }) {
+export default function Hero() {
   return (
     <div className="relative overflow-hidden pt-8 pb-12 lg:pt-14 lg:pb-16 bg-gradient-to-b from-gray-950 via-[#0B0F19] to-gray-950 border-b border-gray-800/80">
       
